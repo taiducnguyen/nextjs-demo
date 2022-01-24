@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Well Q6 PET WQ61-1PSH",
+        "image": "product-01.webp",
+        "description": "Cyclone suction that removes 98% of hair dust with strong suction power",
+        "price": "500.35",
+        "currencySymbol": "$"
+    },
+    {
+        "id": 2,
+        "name": "Well Q6",
+        "image": "product-02.webp",
+        "description": "Built-in accessories for quick and convenient cleaning",
+        "price": "150.35",
+        "currencySymbol": "$"
+    },
+    {
+        "id": 3,
+        "name": "Well Q7 PET WQ71-2PSSF",
+        "image": "product-03.webp",
+        "description": "Spiral pet brush inhales while brushing away the ingrown hairs in the bedding",
+        "price": "250.35",
+        "currencySymbol": "$"
+    },
+    {
+        "id": 4,
+        "name": "Pure Q9 Power Pro",
+        "image": "product-04.webp",
+        "description": "Strong close suction power with a specially designed Power Pro nozzle",
+        "price": "550.35",
+        "currencySymbol": "$"
+    }
+]

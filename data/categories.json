@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Washing machine",
+        "image": "washing-machine.svg"
+    },
+    {
+        "id": 2,
+        "name": "Dryers",
+        "image": "dryers.svg"
+    },
+    {
+        "id": 3,
+        "name": "Refrigerator",
+        "image": "refrigerators-1.svg"
+    },
+    {
+        "id": 4,
+        "name": "hobs",
+        "image": "hobs-1.svg"
+    },
+    {
+        "id": 5,
+        "name": "Dishwashers",
+        "image": "dishwashers-1.svg"
+    },
+    {
+        "id": 6,
+        "name": "Vacuum",
+        "image": "vacuum.svg"
+    },
+    {
+        "id": 7,
+        "name": "Microwave",
+        "image": "microwave.svg"
+    }
+]

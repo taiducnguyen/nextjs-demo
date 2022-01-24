@@ -1,0 +1,25 @@
+@import "../variables";
+
+.productSummaryContainer {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 0 auto;
+  max-width: 1180px;
+}
+
+.productSummaryItem {
+  width: 100%;
+  margin: 20px;
+}
+
+.productSummaryItemHeader {
+  border: 1px solid $color-gray;
+  padding: 20px;
+}
+
+.productSummaryImage {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+}

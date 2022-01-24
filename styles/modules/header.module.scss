@@ -1,0 +1,26 @@
+@import '../variables';
+
+.header {
+  height: 85px;
+  padding: 8px 40px;
+  background-color: $background-white;
+}
+
+.mainNavigation {
+  display: flex;
+  align-items: center;
+}
+
+.navigationLogo {
+  padding: 12px 30px 12px 0;
+}
+
+.navigationMenu {
+}
+
+.navigationItem {
+  font-size: 1rem;
+  padding: 32px 17px;
+  flex: 0 0 auto;
+  font-weight: 600;
+}
